@@ -2,7 +2,7 @@
 
 ![Block Diagram](0_block_diagram.png)
 
-**TL;DR:** The current boom in AI is driven by advancements in machine learning, increased computing power, big data availability, and significant investments, with applications across various industries and growing public awareness.
+The current boom in AI is driven by advancements in machine learning, increased computing power, big data availability, and significant investments, with applications across various industries and growing public awareness.
 
 ## Introduction
 
