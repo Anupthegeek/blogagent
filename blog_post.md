@@ -1,17 +1,17 @@
 # The AI Boom: Unpacking the Surge in Artificial Intelligence Development
 
-![Block Diagram](/Users/I756221/blogpost/output/images/0_block_diagram.png)
+![Block Diagram](0_block_diagram.png)
 
 **TL;DR:** The current boom in AI is driven by advancements in machine learning, increased computing power, big data availability, and significant investments, with applications across various industries and growing public awareness.
 
 ## Introduction
 
-![Introduction](/Users/I756221/blogpost/output/images/1_introduction.png)
+![Introduction](1_introduction.png)
 Imagine a world where machines can learn, adapt, and even predict future trends with impressive accuracy. This isn't science fiction—it's the reality of today's artificial intelligence (AI) landscape. AI is experiencing an unprecedented boom, transforming industries and reshaping our daily lives. But what exactly is fueling this surge? Let's explore the factors driving the explosive growth of AI and consider its implications.
 
 ## Advancements in Machine Learning
 
-![Advancements in Machine Learning](/Users/I756221/blogpost/output/images/2_advancements_in_machine_learning.png)
+![Advancements in Machine Learning](2_advancements_in_machine_learning.png)
 At the heart of AI's rapid development is machine learning, a subset of AI that enables computers to learn from data without being explicitly programmed. A major leap in this area has been the development of deep learning algorithms. Deep learning, a technique that mimics the human brain's neural networks, allows AI systems to process vast amounts of data and make decisions with remarkable accuracy. According to Yann LeCun, a pioneer in the field, deep learning has revolutionized AI capabilities, enabling breakthroughs in image and speech recognition, natural language processing, and more.
 
 ### Deepening the Understanding
@@ -19,7 +19,7 @@ Deep learning's success is largely due to its ability to handle complex data str
 
 ## Increased Computing Power and Big Data Availability
 
-![Increased Computing Power and Big Data Availability](/Users/I756221/blogpost/output/images/3_increased_computing_power_and_big_data_availability.png)
+![Increased Computing Power and Big Data Availability](3_increased_computing_power_and_big_data_availability.png)
 The rise of powerful graphics processing units (GPUs) and cloud computing has been instrumental in AI's growth. GPUs, originally designed for rendering graphics in video games, are now used to accelerate AI computations, allowing for faster processing of large datasets. While NVIDIA claims a significant increase in GPU performance over the past decade, it's important to note that this figure may vary depending on specific benchmarks and metrics.
 
 ### The Role of Big Data
@@ -27,7 +27,7 @@ AI thrives on data, and the digital age has provided an abundance of it. From so
 
 ## Real-World Examples and Implications
 
-![Real-World Examples and Implications](/Users/I756221/blogpost/output/images/4_real_world_examples_and_implications.png)
+![Real-World Examples and Implications](4_real_world_examples_and_implications.png)
 AI's impact is visible across industries, from healthcare to finance. In healthcare, AI algorithms analyze medical images to detect diseases early, potentially saving lives. In finance, AI models predict market trends, helping investors make informed decisions. The automotive industry is witnessing a shift towards autonomous vehicles, with AI systems navigating complex traffic scenarios. Retailers use AI to personalize shopping experiences, enhancing customer satisfaction and loyalty.
 
 ### Investment and Public Awareness
